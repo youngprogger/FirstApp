@@ -25,20 +25,20 @@ function App() {
 class MyTodoList extends React.Component {
   state = {
     tasks: [{
-      id: 1234,
-      name: 'Name of the task',
+      id: 1,
+      name: 'Name of the task1',
       description: 'What needs to be done',
       completed: true
     },
     {
-      id: 1235,
-      name: 'Name of the task',
+      id: 2,
+      name: 'Name of the task2',
       description: 'What needs to be done',
       completed: true
     },
     {
-      id: 1236,
-      name: 'Name of the task',
+      id: 3,
+      name: 'Name of the task3',
       description: 'What needs to be done',
       completed: true
     }
